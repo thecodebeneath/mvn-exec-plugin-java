@@ -7,3 +7,4 @@ Execute a Java program from a maven build, async and without terminating the bui
 
 # Example
 - This project launches an interactive java GUI application as part of the package phase of the build. When the user exits the app, the build will finish and display the maven project summary. 
+- Examine the pom.xml file for how to do this.
